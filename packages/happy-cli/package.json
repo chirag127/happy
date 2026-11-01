@@ -109,7 +109,7 @@
     "tmp": "^0.2.5",
     "tweetnacl": "^1.0.3",
     "ws": "^8.19.0",
-    "zod": "^4.0.0"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@eslint/compat": "^1",
